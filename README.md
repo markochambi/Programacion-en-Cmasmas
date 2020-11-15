@@ -1,3 +1,3 @@
 # Programacion-en-C-
 Muchos ejemplos acerca del lenguaje C++
-Buenas días , mi nombre es Marko Denys Chambi Colque y apartir de ahora comenzaré subiendo programas codificados en el lenguaje C++ .
+Buenos días , mi nombre es Marko Denys Chambi Colque y soy un Ingeniero Electronico que desea aprender un poco más acerca del mundo de la programacion. Apartir de ahora comenzaré subiendo programas codificados en el lenguaje C++.
